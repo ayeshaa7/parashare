@@ -1,6 +1,6 @@
-This is a full stack [Next.js] app created for athletes and teams participating in the Paralympic Games UAE.
+This is a full stack [Next.js] app with Firebase API for authentication and database management, created for athletes and teams participating in the Paralympic Games UAE.
 
-Next.JS, Tailwind, JSX, CSS, Firebase API for authentication and database.
+Technologies: Next.JS, Tailwind, JSX, CSS, Firebase API.
 
 <img width="610" alt="Screen Shot 2023-01-06 at 4 06 06 PM" src="https://user-images.githubusercontent.com/87906936/210991720-ba5974d8-ab41-49a1-bebd-73f1e520093b.png">
 
