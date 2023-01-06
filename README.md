@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a full stack [Next.js] app created for athletes and teams participating in the Paralympic Games UAE.
 
 Next.JS, Tailwind, JSX, CSS, Firebase API for authentication and database.
 
