@@ -57,8 +57,8 @@ export default function Details(){
                 <div className = "flex">
                     <input 
                         onChange = {(e) => setMessage(e.target.value)}
-                        type = "text" value = {message} placeholder = "Send us a message! 😀"
-                        className = "bg-gray-800 p-2 text-white text-sm w-full rounded-l-lg" 
+                        type = "text" value = {message} placeholder = "Write a comment"
+                        className = "bg-white p-2 text-white text-sm w-full rounded-l-lg" 
                     />
                     <button onClick = {submitMessage} className = "bg-sky-600 text-white text-sm py-2 px-2 rounded-r-lg">Submit</button>
                 </div>
