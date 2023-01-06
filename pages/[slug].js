@@ -58,7 +58,7 @@ export default function Details(){
                     <input 
                         onChange = {(e) => setMessage(e.target.value)}
                         type = "text" value = {message} placeholder = "Write a comment"
-                        className = "bg-white p-2 text-white text-sm w-full rounded-l-lg" 
+                        className = "bg-white p-2 text-black text-sm w-full rounded-l-lg" 
                     />
                     <button onClick = {submitMessage} className = "bg-sky-600 text-white text-sm py-2 px-2 rounded-r-lg">Submit</button>
                 </div>
