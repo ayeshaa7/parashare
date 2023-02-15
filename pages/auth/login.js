@@ -41,11 +41,8 @@ export default function Login(){
                     className = "text-white bg-gray-700 w-full font-medium rounded-lg flex align-middle p-4 gap-2">
                     <FcGoogle className = "text-2xl" />
                     Sign Up with Google
-                </button>
-                
-            </div>
-            
+                </button>          
+            </div>      
         </div>
-
     );
 } 
