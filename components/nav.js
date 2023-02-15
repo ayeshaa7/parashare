@@ -13,6 +13,7 @@ export default function Nav(){
             <Link href= "/">
                 <button className= "text-lg font-medium text-white">ParaShare</button>
             </Link>          
+            
             <ul className = "flex items-center gap-10">                
                 {!user && (
                     <Link href = "/auth/login">
@@ -28,8 +29,7 @@ export default function Nav(){
                         <Link href = "/dashboard">
                         <img className = "w-12 rounded-full cursor-pointer" 
                         src = {user.photoURL} alt = "" />
-                        </Link>
-                
+                        </Link>              
                     </div> )}
             </ul>
         </nav>
