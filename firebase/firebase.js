@@ -1,6 +1,6 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth"; //get current user info who's logged in for database
-import { getFirestore } from "firebase/firestore"; //database, to retrieve, write, update, use 
+import { getFirestore} from "firebase/firestore"; //database, to retrieve, write, update, use 
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_API_KEY,
